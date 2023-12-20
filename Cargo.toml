@@ -1,0 +1,2 @@
+[workspace]
+members = ["crates/Chapter12", "crates/Chapter11"]

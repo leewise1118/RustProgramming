@@ -1,2 +1,3 @@
 [workspace]
-members = ["crates/Chapter12", "crates/Chapter11"]
+resolver = "1"
+members = ["crates/Chapter12", "crates/Chapter11", "crates/Chapter13"]
